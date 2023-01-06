@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    ;
+}
+
+.banner {
+    background-image: url(/images/donation9.jpg);
+    background-size: cover;
+    width: 1440px;
+    height: 669px;
+    position: absolute;
+}
+
+.title {
+    color: white;
+    text-align: center;
+}
+
+.head-t {
+    font-weight: 700;
+    font-size: 65px;
+    text-align: center;
+    width: 826px;
+    height: 158px;
+    text-align: center;
+    margin: 170px 307px;
+    margin-top: 300px;
+    margin-bottom: 0;
+}
+
+.head-dis {}
+.btn-primary{
+    color: white;
+    background-color: 
+    #FF5959;
+}
