@@ -85,3 +85,27 @@
     margin-left: 20px;
     border-color: #FF5959;
 }
+.amount{
+    text-align: center;
+    color: #bbb8b8;
+    border-bottom: solid rgb(183, 179, 179);
+    padding-top: 20px;
+    /* padding-bottom: 6px ; */
+    margin: 0 50px;
+}
+/* plan */
+.plan{
+    text-align: center;
+}
+.plan-t{
+    color: black;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 100px;
+}
+.plan-dis{
+    font-size: 15px;
+    padding: 20px;
+
+}
