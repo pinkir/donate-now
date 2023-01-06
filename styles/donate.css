@@ -58,7 +58,7 @@
     font-size: 20px;
 }
 .donate-dis{
-    font-size: 15px;
+    font-size: 20px;
     padding: 20px;
 }
 .button-taka{
@@ -91,10 +91,10 @@
 .amount{
     text-align: center;
     color: #bbb8b8;
-    border-bottom: solid rgb(183, 179, 179);
+    /* border-bottom: solid rgb(183, 179, 179); */
     padding-top: 20px;
     /* padding-bottom: 6px ; */
-    margin: 0 50px;
+    /* margin: 0 50px; */
 }
 /* plan */
 .plan{
@@ -104,11 +104,11 @@
     color: black;
     text-align: center;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 30px;
     padding-top: 100px;
 }
 .plan-dis{
-    font-size: 15px;
+    font-size: 20px;
     padding: 20px;
 
 }
