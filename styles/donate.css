@@ -6,15 +6,16 @@
 
 .banner {
     background-image: url(/images/donation9.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     width: 1440px;
     height: 669px;
-    position: absolute;
 }
 
 .title {
     color: white;
     text-align: center;
+    padding-top: 40px;
 }
 
 .head-t {
@@ -27,13 +28,15 @@
     margin: 170px 307px;
     margin-top: 300px;
     margin-bottom: 0;
+
 }
 
 .head-dis {}
-.btn-primary{
+
+.btn-primary {
     color: white;
-    background-color: 
-    #FF5959;
+    background-color:
+        #FF5959;
     font-weight: 700;
     font-size: 20px;
     padding: 18px 35px;
@@ -41,4 +44,44 @@
     border: 0;
     margin-top: 10px;
 
+}
+
+/* donate today */
+.donate-t {
+    color: black;
+    text-align: center;
+    padding-top: 150px;
+    font-weight: 200;
+    font-size: 20px;
+}
+.donate-dis{
+    font-size: 15px;
+    padding: 20px;
+}
+.button-taka{
+    text-align: center;
+}
+.btn-primary2{
+    color: rgb(144, 140, 140);
+    background-color:
+    #FAFAFA;
+    font-weight: 700;
+    font-size: 30px;
+    padding: 20px 35px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.btn-2{
+    color: #FF5959;
+    background-color:
+    #FFEEEE;
+    font-weight: 700;
+    font-size: 30px;
+    padding: 20px 35px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-color: #FF5959;
 }
