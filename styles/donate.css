@@ -8,8 +8,9 @@
     background-image: url(/images/donation9.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 1440px;
-    height: 669px;
+    /* background-position: center; */
+    /* width: 1440px;
+    height: 669px; */
 }
 
 .title {
@@ -28,6 +29,7 @@
     margin: 170px 307px;
     margin-top: 300px;
     margin-bottom: 0;
+    padding-left: 200px;
 
 }
 
@@ -43,6 +45,7 @@
     border-radius: 5px;
     border: 0;
     margin-top: 10px;
+    margin-bottom: 50px;
 
 }
 
